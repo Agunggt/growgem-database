@@ -1,7 +1,24 @@
 {
-  "users": {},
+  "users": {
+    "Gunz": {
+      "username": "Gunz",
+      "password": "Agunggt2008",
+      "email": "admin@growgem.com",
+      "phone": "08123456789",
+      "balance": 999999999,
+      "level": 50,
+      "xp": 999999,
+      "totalBet": 0,
+      "totalWin": 0,
+      "role": "admin",
+      "isAdmin": true,
+      "banned": false,
+      "chestCooldowns": {},
+      "createdAt": 1773312410979
+    }
+  },
   "chatMessages": [],
   "onlineUsers": {},
   "transactions": [],
-  "lastUpdated": 1773312410360
+  "lastUpdated": 1773312411298
 }
