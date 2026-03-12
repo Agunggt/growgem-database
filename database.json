@@ -64,6 +64,15 @@
     "anjay": true,
     "Gunz": true
   },
-  "transactions": [],
-  "lastUpdated": 1773313933380
+  "transactions": [
+    {
+      "id": 1773313993157,
+      "username": "anjay",
+      "type": "deposit",
+      "amount": 33,
+      "status": "pending",
+      "timestamp": 1773313993157
+    }
+  ],
+  "lastUpdated": 1773313993786
 }
