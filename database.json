@@ -34,10 +34,15 @@
       "createdAt": 1773313815405
     }
   },
-  "chatMessages": [],
-  "onlineUsers": {
-    "anjay": true
-  },
+  "chatMessages": [
+    {
+      "username": "anjay",
+      "message": "p",
+      "title": "Bronze",
+      "timestamp": 1773313830820
+    }
+  ],
+  "onlineUsers": {},
   "transactions": [],
-  "lastUpdated": 1773313816948
+  "lastUpdated": 1773313831269
 }
