@@ -52,6 +52,12 @@
       "message": "halo",
       "title": "Emerald",
       "timestamp": 1773313885102
+    },
+    {
+      "username": "anjay",
+      "message": "asu",
+      "title": "Emerald",
+      "timestamp": 1773313932940
     }
   ],
   "onlineUsers": {
@@ -59,5 +65,5 @@
     "Gunz": true
   },
   "transactions": [],
-  "lastUpdated": 1773313913546
+  "lastUpdated": 1773313933380
 }
