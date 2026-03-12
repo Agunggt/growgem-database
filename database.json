@@ -35,7 +35,9 @@
     }
   },
   "chatMessages": [],
-  "onlineUsers": {},
+  "onlineUsers": {
+    "anjay": true
+  },
   "transactions": [],
-  "lastUpdated": 1773313815418
+  "lastUpdated": 1773313816948
 }
