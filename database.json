@@ -21,10 +21,10 @@
       "password": "anjay123",
       "email": "anjay",
       "phone": "08363773",
-      "balance": 1000,
+      "balance": 990,
       "level": 1,
-      "xp": 0,
-      "totalBet": 0,
+      "xp": 10,
+      "totalBet": 10,
       "totalWin": 0,
       "banned": false,
       "role": "user",
@@ -46,5 +46,5 @@
     "anjay": true
   },
   "transactions": [],
-  "lastUpdated": 1773313836442
+  "lastUpdated": 1773313857378
 }
