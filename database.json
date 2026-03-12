@@ -15,10 +15,27 @@
       "banned": false,
       "chestCooldowns": {},
       "createdAt": 1773312723596
+    },
+    "anjay": {
+      "username": "anjay",
+      "password": "anjay123",
+      "email": "anjay",
+      "phone": "08363773",
+      "balance": 1000,
+      "level": 1,
+      "xp": 0,
+      "totalBet": 0,
+      "totalWin": 0,
+      "banned": false,
+      "role": "user",
+      "isAdmin": false,
+      "chestCooldowns": {},
+      "deviceFingerprint": "n9t1db",
+      "createdAt": 1773313815405
     }
   },
   "chatMessages": [],
   "onlineUsers": {},
   "transactions": [],
-  "lastUpdated": 1773313769932
+  "lastUpdated": 1773313815418
 }
