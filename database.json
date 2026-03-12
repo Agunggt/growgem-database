@@ -42,7 +42,9 @@
       "timestamp": 1773313830820
     }
   ],
-  "onlineUsers": {},
+  "onlineUsers": {
+    "anjay": true
+  },
   "transactions": [],
-  "lastUpdated": 1773313835341
+  "lastUpdated": 1773313836442
 }
