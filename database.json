@@ -5,11 +5,11 @@
       "password": "Agunggt2008",
       "email": "admin@growgem.com",
       "phone": "08123456789",
-      "balance": 1002329803.8000002,
+      "balance": 1004898815.0000002,
       "level": 50,
       "xp": 5965844,
-      "totalBet": 15810560,
-      "totalWin": 20761804.8,
+      "totalBet": 18432000,
+      "totalWin": 25952256,
       "role": "admin",
       "isAdmin": true,
       "banned": false,
@@ -74,5 +74,5 @@
       "timestamp": 1773313993157
     }
   ],
-  "lastUpdated": 1773322358355
+  "lastUpdated": 1773322361069
 }
